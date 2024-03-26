@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\Sarah\source\repos\Stack\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sarah\source\repos\Stack\stack.h(43,27): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Sarah\source\repos\Stack\stack.h(43,27): warning C5043: 'stack<data_type>::pop': exception specification does not match previous declaration
+C:\Users\Sarah\source\repos\Stack\stack.h(20): message : see declaration of 'stack<data_type>::pop'
+C:\Users\Sarah\source\repos\Stack\stack.h(56,27): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Sarah\source\repos\Stack\stack.h(56,27): warning C5043: 'stack<data_type>::top': exception specification does not match previous declaration
+C:\Users\Sarah\source\repos\Stack\stack.h(21): message : see declaration of 'stack<data_type>::top'
+C:\Users\Sarah\source\repos\Stack\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Sarah\source\repos\Stack\stack.h(43,27): warning C5043: 'stack<int>::pop': exception specification does not match previous declaration
+C:\Users\Sarah\source\repos\Stack\stack.h(20): message : see declaration of 'stack<int>::pop'
+C:\Users\Sarah\source\repos\Stack\stack.h(56,27): warning C5043: 'stack<int>::top': exception specification does not match previous declaration
+C:\Users\Sarah\source\repos\Stack\stack.h(21): message : see declaration of 'stack<int>::top'
+C:\Users\Sarah\source\repos\Stack\stack.h(43,27): warning C5043: 'stack<std::vector<std::string,std::allocator<std::string>>>::pop': exception specification does not match previous declaration
+C:\Users\Sarah\source\repos\Stack\stack.h(20): message : see declaration of 'stack<std::vector<std::string,std::allocator<std::string>>>::pop'
+C:\Users\Sarah\source\repos\Stack\stack.h(56,27): warning C5043: 'stack<std::vector<std::string,std::allocator<std::string>>>::top': exception specification does not match previous declaration
+C:\Users\Sarah\source\repos\Stack\stack.h(21): message : see declaration of 'stack<std::vector<std::string,std::allocator<std::string>>>::top'
+C:\Users\Sarah\source\repos\Stack\stack.h(64): warning C4715: 'stack<int>::top': not all control paths return a value
+C:\Users\Sarah\source\repos\Stack\stack.h(64): warning C4715: 'stack<std::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char> > > > >::top': not all control paths return a value
+  Stack.vcxproj -> C:\Users\Sarah\source\repos\Stack\x64\Debug\Stack.exe

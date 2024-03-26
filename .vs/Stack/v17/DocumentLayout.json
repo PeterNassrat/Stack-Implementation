@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D060AF1-CD90-4C16-B4AF-A52DF44FDDFA}|Stack.vcxproj|D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D060AF1-CD90-4C16-B4AF-A52DF44FDDFA}|Stack.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D060AF1-CD90-4C16-B4AF-A52DF44FDDFA}|Stack.vcxproj|D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\StackEmptyException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D060AF1-CD90-4C16-B4AF-A52DF44FDDFA}|Stack.vcxproj|solutionrelative:StackEmptyException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D060AF1-CD90-4C16-B4AF-A52DF44FDDFA}|Stack.vcxproj|D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D060AF1-CD90-4C16-B4AF-A52DF44FDDFA}|Stack.vcxproj|solutionrelative:stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stack.h",
+              "DocumentMoniker": "D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\stack.h",
+              "RelativeDocumentMoniker": "stack.h",
+              "ToolTip": "D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\stack.h",
+              "RelativeToolTip": "stack.h",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-26T04:53:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StackEmptyException.h",
+              "DocumentMoniker": "D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\StackEmptyException.h",
+              "RelativeDocumentMoniker": "StackEmptyException.h",
+              "ToolTip": "D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\StackEmptyException.h",
+              "RelativeToolTip": "StackEmptyException.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-26T04:53:09.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\Peter\\The College\\The Study\\Projects\\Stack Implementation\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T04:53:09.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
